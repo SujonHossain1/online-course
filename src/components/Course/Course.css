@@ -1,0 +1,15 @@
+.course {
+    box-shadow: 1px 1px 5px gray;
+    padding: 18px 12px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+.course figure{
+    width: 100%;
+    text-align: center;
+}
+.course img {
+    width: 300px;
+    height: 150px;
+    margin-bottom: 10px;
+}
